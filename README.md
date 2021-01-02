@@ -1,0 +1,2 @@
+# titanium_secure_framework
+This is an attempt to create an extensible secure foundation for admin systems, it uses an independent session system and maintains details access control systems. The idea is that with the use of this project a developer can get right into creating their admin system without having to worry about security or setting up a user system. A MVC structure is in place to make development quick and easy. 
